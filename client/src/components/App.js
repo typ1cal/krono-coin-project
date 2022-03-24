@@ -19,7 +19,7 @@ class App extends Component {
         <img className='logo' src={logo}></img>
         <br />
         <div>
-          Welcome to the blockchain...
+          Krono Coin, A peer to peer transaction!
         </div>
         <br />
         <div><Link to='/blocks'>Blocks</Link></div>
